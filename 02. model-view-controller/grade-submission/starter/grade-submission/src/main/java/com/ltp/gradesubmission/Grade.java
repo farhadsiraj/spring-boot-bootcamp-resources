@@ -5,7 +5,6 @@ public class Grade {
     private String subject;
     private String score;
 
-
     public Grade(String name, String subject, String score) {
         this.name = name;
         this.subject = subject;
